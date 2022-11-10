@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "apple-368117",
+  "private_key_id": "22d5e3d46f6b27ba5f00d36cd03a2878e423309c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC39krrY1aSHd1R\nvanxXto5M8aAOjwyHVwKjc2TFWbsco5lWErayGdQa5fnyCrbBELlYCSml4IIYmfZ\nqk2OXKS+2UJE6iXVxQ+KYIC1Twy+iq3Zflj+SppKXZQ8BBhGMTOSj9WcizAivpT8\nZgD59kgLmIg2cLnpi93+AmFwOGD/sbgXBmmo1xHEnlVuLx3UMNHPAkjOBNY9l34d\no/2s5RKJ79fWKH7EdN22DC752EQLEW/stXtVXpeIB4Vp6A+IVQZ1pYccxy1Cw37M\nLWGrO8NvGz9ikSuePTGr7+KgiAqrnJM24eJ77atTm92oBNV8m/gL36Yp0sCQHVYa\nY1dXCrELAgMBAAECggEAQSIu/JC7ghiY1+wzU4al9ULjsVrtHUFP6VyzwLP/MRCO\nYkuUlUoHam3t5t70bX9gwB3+XA2guJ8+7c5ij1k162y5DfVpV/rhubjZWViXxo8L\nZspZcA+x+UqQxX8dqRyaifXrR/XwIR0hWwwypE4SzChBciUPbiVbgCgPn9AWZ/FF\nUDdSJwMxfAXpJljjd0cqO+y3qRDhnBJjEj17VK5Yzf3PpxEfiiqoN2v0OwbicRYl\n/lBaryBxAg4vavfLlVStk1Vbl9TESpqXEDCnj4/oynlcDVVNGEPjDTjQEOBoA04L\n9D4NdcGIpCct/fx5vIgZECfIagPZH1/fG6tJ1I6F4QKBgQD7IyFJG5rTpbURvn1K\nH7VYAJTCVfTe/ff9p4WM3dVIDU14vp4Zzx2S/QHSOR0cos7GJ+mYpkWycm+EFrxE\n3rTGcLpGYHzBaCG9qvpk+NhMlLGvGLWv5qwedDJMq7C4ISTlA/Er8XWlVpunU01A\nh9lq9mu6bgNC1my9y0OdPNCPjwKBgQC7hi4Xsywsei3rEdyzntRWbIOjnpUIiX9L\nzpgXM06pCEcizN0Q2pLiupVJ1Qpwnqqk9BQHDZcEkNvRNcn4gGfGe/NAlwpuVQ/M\nCxfOOadgfzcjkNkeGW/aO7a7OldVrWVf4vQ5hZTbsV0J7EcNdwMvNz9Pq0I9Tbxw\nSbauJRRIxQKBgD7ZNs5F80Q+Nwc+xboUH1zroE7WFhbsNfCryNdM+MA0XAv4oDZT\nR9JuMNN8aZWuBNNAT8xc6BpVWyUST4FovpLeyS8tnGsGdVMzA8DbKb5Yg/MO2wEv\nWCmy6JeZa/tYiBQsHWHi5o8/EmsYhL++f6GuE52vRG+om8QPp1clTghvAoGAEm1V\nCi8pIBXBfV/7+AqbgwKWzPVAX95jC+f5Og5opGOT2e+XqZhQ5sa+9MpihD6TNjJl\n5WuIc4Jol15ZwnmbuP1lIeu1srHZI4vTgwhXUjwuBuis7TBCtYc4pZ1OB7VKSOnc\nZeqifhQnuFnngYM4ZONg7Us+7xc8dSxJL0OlgqECgYEA5exhjp3hrg4zjsUEM2qq\nKlSKxQsiVaDiurMtiHr3H5mzKI54V68ncxA1Gx+beKGYD+8biKdnD6yva4p8cgh5\nTEZMFtE3UxR+QJ/nXjV+zlSJDfr5V4nBE1TThHdiLIwWJkQpeTe5aRY+t1RehfiL\npNo9Tx8tfXsZagEkivtpChM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-w8mo-tjh0j-5lpycasorwib-4i@apple-368117.iam.gserviceaccount.com",
+  "client_id": "118276604283942116786",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-w8mo-tjh0j-5lpycasorwib-4i%40apple-368117.iam.gserviceaccount.com"
+}
